@@ -17,7 +17,9 @@ A simple Python program that lets the user enter a city name and fetches live we
    git clone https://github.com/akshithkendyala/Weather-Report.git
    cd Weather-Report
 2. **Install dependencies**
-   pip install -r requirements.txt
-3. **Run the program**
-   python weather_report.py
+
+        pip install -r requirements.txt
+4. **Run the program**
+
+       python weather_report.py
  
